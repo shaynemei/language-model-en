@@ -1,0 +1,1 @@
+python2 ngram_count.py $1 $2
