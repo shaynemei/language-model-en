@@ -1,1 +1,1 @@
-python2 ngram_count.py $1 $2
+python2 script/ngram_count.py $1 $2

@@ -1,1 +1,1 @@
-python3 ppl.py $1 $2 $3 $4 $5 $6
+python3 script/ppl.py $1 $2 $3 $4 $5 $6
